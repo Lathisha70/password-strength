@@ -3,6 +3,8 @@ Passwords are essential for securing personal and sensitive information online. 
 
 
 tool used:https://haveibeenpwned.com/Passwords
+
+
 password123
 ![Screenshot 2025-06-11 150203](https://github.com/user-attachments/assets/246792de-e9fe-4d45-8829-a7614b9e7dbd)
 Password123
@@ -15,26 +17,49 @@ P@ssw0rd!2024
 ![Screenshot 2025-06-11 150744](https://github.com/user-attachments/assets/695a8171-6939-46bb-86a8-b72fcf0c9695)
 
 Best Practices for Creating Strong Passwords
+
 Use a mix of uppercase, lowercase, numbers, and symbols.
+
 Aim for length of at least 12 characters.
+
 Avoid dictionary words or common patterns.
+
 Use random combinations rather than predictable sequences.
+
 Consider using a password manager to generate and store strong passwords.
 
+
 Common Password Attacks
+
 Brute Force Attack: Trying every possible combination until the password is found.
+
 Dictionary Attack: Using lists of common passwords or words to guess.
+
 Credential Stuffing: Using leaked passwords from other breaches.
+
 Social Engineering: Tricking users to reveal passwords.
 
+
+
 How Password Complexity Affects Security
+
+
 Increasing length exponentially increases the number of possible combinations.
+
 Including symbols and mixed case greatly increases entropy.
+
 Randomness reduces vulnerability to dictionary and pattern attacks.
 
 
+
 Tips Learned from Evaluation
-Password checkers sometimes underestimate 'real-world' risks — always prefer complexity and length.
+
+
+Password checkers sometimes underestimate 'real-world' risks — always prefer complexity and 
+length.
+
 Reusing passwords is dangerous even if strong.
+
 Combine length and complexity for the best security.
+
 Always use different passwords for different sites.
