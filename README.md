@@ -1,4 +1,6 @@
-Create a Strong Password and Evaluate Its Strength
+PASSWORD STRENGTH
+
+
 Passwords are essential for securing personal and sensitive information online. However, weak passwords can easily be compromised, leading to unauthorized access and data breaches. This report evaluates the strength of various passwords using online password strength checkers. By analyzing different levels of complexity, we aim to understand the key factors that contribute to password security and highlight best practices for creating strong passwords.
 
 
